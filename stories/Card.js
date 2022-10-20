@@ -27,5 +27,3 @@ export const Card = ({ nativeTitle, title, description, url }) => {
     </div>
   `;
 };
-
-module.exports = Card;
