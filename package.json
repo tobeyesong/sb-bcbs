@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https:///tobeyesong:ghp_ORsttfQHw7GumDzc9RluUbeZgUjVKd0cgithub.com/tobeyesong/storybook-bcbs-package.git"
+    "url": "https:///tobeyesong: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@github.com/tobeyesong/sb-bcbs.git"
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
